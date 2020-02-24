@@ -8,4 +8,8 @@ Connecting to the server:
 
 ```nc HOST PORT```
 
+Chat example:
 ![](./example.jpg)
+
+Searching messages:
+![](./example2.jpg)
