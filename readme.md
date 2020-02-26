@@ -17,13 +17,13 @@
 #### exit - quits the chat
 
 ### Chat example:
-![](./example.jpg)
+![](img/example1.jpg)
 
 ### Searching for messages:
-![](./example2.jpg)
+![](img/example2.jpg)
 
 ### Sending a file:
-![](./example3.jpg)
+![](img/example3.jpg)
 
 ### Downloading a file:
-![](./example4.jpg)
+![](img/example4.jpg)
