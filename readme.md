@@ -1,4 +1,4 @@
-# The simplest netcat chat with rooms and search support
+# The simplest netcat chat with rooms and file exchange
 
 ### Running the server:
 
